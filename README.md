@@ -1,4 +1,4 @@
-# On stackOverflow-tags
+# On StackOverflow-tags
 # On Amazon fine food reviews
-# Credit card lead prediction
-# Churn prediction dataset
+# On Credit card lead prediction
+# On Churn prediction dataset
